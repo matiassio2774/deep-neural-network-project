@@ -1,5 +1,6 @@
 # deep-neural-network-project
 Proyecto final de 5to año en la especialidad de Computación, asignaturas: Proyecto Informático, Análisis de Sistemas, Programación.
+
 Tema: Prediccion de sismos/terremotos en una zona determinada (California).
 
 A continuación explicaré las partes fundamentales de este proyecto.
