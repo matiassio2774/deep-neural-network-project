@@ -1,0 +1,33 @@
+Magnitud >= 2 AND < 3 = Intervalo 0
+
+Magnitud >= 3 AND < 4 = Intervalo 1 
+
+Magnitud >= 4 AND < 5 = Intervalo 2 | Efecto 1 | BI 0
+
+Magnitud >= 5	      = Intervalo 3 | Efecto 2 | BI 0 | Escala 6
+
+--------------------------------------
+
+Magnitud 3 -> 3.4 = Escala 0
+Magnitud 5 -> 5.4 = Escala 1
+Magnitud 2.5 -> 2.9 = Escala 2
+Magnitud 3.5 -3.9 = Escala 3
+Magnitud 2 -> 2.4 = Escala 4
+Magnitud 4 -> 4.9 = Escala 5
+
+--------------------------------------
+
+Magnitud >= 2 AND <= 3.9 = Efecto 0 | BI 1
+
+-------------------------------------
+
+Alameda 	= 0
+Ejido Jiquilpan = 1
+Los Angeles 	= 2
+Mono		= 3
+Moss Landing 	= 4
+Riverside 	= 5
+Sacramento 	= 6
+San Benito 	= 7
+San Francisco 	= 8
+Ventura 	= 9
